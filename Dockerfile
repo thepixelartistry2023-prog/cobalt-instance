@@ -1,2 +1,2 @@
-FROM ghcr.io/imputnet/yt-session-generator:webserver
-EXPOSE 8080
+FROM ghcr.io/imputnet/cobalt:11
+EXPOSE 9000
